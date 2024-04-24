@@ -7,3 +7,5 @@ parte 01
 
 
 parte 02
+- Commit 1: Convertendo Strings para int e float
+- Commit 2> Fazendo uma mini calculadora
