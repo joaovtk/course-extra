@@ -11,11 +11,8 @@ if(op == 1){
     n3 = n1 / n2;
 }else if(op == 4){
     n3 = n1 + n2;
-}
-
-if(op <= 4){
-    alert("O Resultado é: "+ n3);
 }else {
-    alert("Opção Invalida\nRecarregue a pagina para tentar de novo");
+    n3 = "Opção Invalida"
 }
 
+alert("O Resultado é: "+ n3);

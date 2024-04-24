@@ -10,3 +10,5 @@ Parte 02
 - Commit 1: Convertendo Strings para int e float
 - Commit 2: Fazendo uma mini calculadora
 - Commit 3: Adicionando 4 operaçoes basicas
+
+Parte 03
