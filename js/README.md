@@ -12,3 +12,4 @@ Parte 02
 - Commit 3: Adicionando 4 operaçoes basicas
 
 Parte 03
+- Commit 1: Classificação De Triângulos
