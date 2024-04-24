@@ -13,8 +13,8 @@ let c = Number.parseFloat(prompt("Digite o terceiro lado: "));
 if((a + b) > c){
     if((a == b) && (b == c)){
         alert("O Triâgulo fornecido é um Equilátero");
-    }else if((a != b) && (a != c) && (b != c)){
-        alert("O Triâgulo fornecido é umEscaleno");
+    }else if((a != b) && (b != c)){
+        alert("O Triâgulo fornecido é um Escaleno");
     }else {
         alert("O Triâgulo fornecido é um Isoceles");
     }
