@@ -1,6 +1,6 @@
 # Atividades Extras
 
-<p>Esse é um repositorio dedicado a atividades extra curriculares feitas no curso da proz</p>
+<p>Esse é um repositorio dedicado a atividades extra curriculares feitas no curso da proz ou que não tem classificação</p>
 
 # Organização de pastas
 
